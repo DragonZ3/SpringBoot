@@ -1,0 +1,4 @@
+server.port=9090
+
+#设置上下文根
+server.servlet.context-path=/boot
